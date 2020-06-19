@@ -2,7 +2,7 @@ baseURL = "https://pullmay.github.io/blog"
 publishDir = "docs"
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "miruca"
+title = "みるかの個人ページ"
 theme = "hermit"
 [params]
   dateform        = "Jan 2, 2006"
