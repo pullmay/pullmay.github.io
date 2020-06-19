@@ -1,11 +1,22 @@
-baseURL = "https://pullmay.github.io/blog"
+baseURL = "https://pullmay.github.io/"
 publishDir = "docs"
-languageCode = "ja"
+languageCode = "ja-jp"
 defaultContentLanguage = "ja"
 title = "みるかの個人ページ"
 theme = "hermit"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+  
+  homeSubtitle = "I feel like to be lazy"
+
+  justifyContent = false
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
