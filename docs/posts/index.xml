@@ -1,21 +1,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on miruca</title>
-		<link>http://pullmay.github.io/blog/posts/</link>
-		<description>Recent content in Posts on miruca</description>
+		<title>Posts on みるかの個人ページ</title>
+		<link>https://pullmay.github.io/blog/posts/</link>
+		<description>Recent content in Posts on みるかの個人ページ</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>ja</language>
 		<lastBuildDate>Fri, 19 Jun 2020 18:49:46 +0900</lastBuildDate>
-		<atom:link href="http://pullmay.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://pullmay.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Init</title>
-			<link>http://pullmay.github.io/blog/posts/init/</link>
+			<link>https://pullmay.github.io/blog/posts/init/</link>
 			<pubDate>Fri, 19 Jun 2020 18:49:46 +0900</pubDate>
 			
-			<guid>http://pullmay.github.io/blog/posts/init/</guid>
-			<description></description>
-			<content type="html"><![CDATA[]]></content>
+			<guid>https://pullmay.github.io/blog/posts/init/</guid>
+			<description>Init procedure  hoge hoge hoge  code def is_prime(p): return True </description>
+			<content type="html"><![CDATA[<h1 id="init">Init</h1>
+<h2 id="procedure">procedure</h2>
+<ol>
+<li>hoge</li>
+<li>hoge</li>
+<li>hoge</li>
+</ol>
+<h3 id="code">code</h3>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">is_prime</span>(p):
+    <span style="color:#66d9ef">return</span> True
+</code></pre></div>]]></content>
 		</item>
 		
 	</channel>
