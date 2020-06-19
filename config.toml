@@ -1,4 +1,4 @@
-baseURL = "http://pullmay.github.io/blog/"
+baseURL = "https://pullmay.github.io/blog/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "miruca"

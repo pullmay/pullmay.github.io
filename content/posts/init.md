@@ -8,3 +8,17 @@ tags:
   - untagged
 ---
 
+# Init
+
+## procedure
+
+1. hoge
+1. hoge
+1. hoge
+
+### code
+
+```python
+def is_prime(p):
+    return True
+```
