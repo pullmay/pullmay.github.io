@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on みるかの個人ページ</title>
-    <link>https://pullmay.github.io/tags/untagged/</link>
+    <link>https://pullmay.github.io/blog/tags/untagged/</link>
     <description>Recent content in untagged on みるかの個人ページ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 19 Jun 2020 18:49:46 +0900</lastBuildDate>
     
-	<atom:link href="https://pullmay.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pullmay.github.io/blog/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Init</title>
-      <link>https://pullmay.github.io/posts/init/</link>
+      <link>https://pullmay.github.io/blog/posts/init/</link>
       <pubDate>Fri, 19 Jun 2020 18:49:46 +0900</pubDate>
       
-      <guid>https://pullmay.github.io/posts/init/</guid>
+      <guid>https://pullmay.github.io/blog/posts/init/</guid>
       <description>Init procedure  hoge hoge hoge  code def is_prime(p): return True </description>
     </item>
     
