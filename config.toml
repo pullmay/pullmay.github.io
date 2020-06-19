@@ -1,0 +1,11 @@
+baseURL = "http://pullmay.github.io/blog/"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+title = "miruca"
+theme = "hermit"
+publishDir = "docs"
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
