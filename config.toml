@@ -20,9 +20,17 @@ hasCJKLanguage = true
     justifyContent = false
 
     twitter  = "mirucaaura"
+    footline = "Copyright&copy; <a href='/about/'>miruca</a>"
 
 [menu]
     [[menu.main]]
         name = "Posts"
         url = "/posts/"
         weight = 10
+        pre = "<i class='fa fa-archive'></i>"
+
+    [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 10
+        pre = "<i class='fa fa-info-circle'></i>"
