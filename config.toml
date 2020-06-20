@@ -1,13 +1,23 @@
+# 基本設定
 baseURL = "https://pullmay.github.io/blog"
+title = "みるかのブログ"
+theme = "hermit"
 publishDir = "docs"
 languageCode = "ja-jp"
 defaultContentLanguage = "ja"
-title = "みるかのブログ"
-theme = "hermit"
 hasCJKLanguage = true
+enableEmoji = true
+
+# 外部リンクを新規タブで開く
+[blackfriday]
+hrefTargetBlank = true
+
+# シンタックスハイライト有効化とスタイル
+pygmentsCodefences = true
+pygmentsStyle = "manni"
 
 [author]
-	name = "miruca"
+	name = "pullmay"
 
 [params]
     dateform        = "Jan 2, 2006"
@@ -19,8 +29,8 @@ hasCJKLanguage = true
 
     justifyContent = false
 
-    twitter  = "mirucaaura"
-    footline = "Copyright&copy; <a href='/about/'>miruca</a>"
+    Twitter  = "mirucaaura"
+    footline = "Copyright&copy; <a href='/about/about/'>pullmay</a>"
 
 [menu]
     [[menu.main]]
@@ -31,12 +41,12 @@ hasCJKLanguage = true
 
     [[menu.main]]
         name = "About"
-        url = "/about/"
+        url = "/about/about/"
         weight = 10
         pre = "<i class='fa fa-info-circle'></i>"
-        
+
     [[menu.main]]
-        name = "Pages"
-        url = "/pages/"
+        name = "みるログ"
+        url = "/MiLLog/"
         weight = 10
-        pre = "<i class='fa fa-info-circle'></i>"
+        pre = "<i class='fa fa-archive'></i>"

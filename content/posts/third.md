@@ -15,6 +15,6 @@ tags:
   ```
 * 次のコマンドで新規の静的ページを作れる
 
-```console
-$ hugo new page/about.md
-```
+  ```console
+  $ hugo new page/about.md
+  ```
