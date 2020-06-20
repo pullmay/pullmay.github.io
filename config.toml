@@ -47,6 +47,6 @@ pygmentsStyle = "manni"
 
     [[menu.main]]
         name = "みるログ"
-        url = "/MiLLog/"
+        url = "/millog/"
         weight = 10
         pre = "<i class='fa fa-archive'></i>"
