@@ -1,9 +1,9 @@
 # 基本設定
 baseURL = "https://pullmay.github.io/blog"
-title = "みるかのブログ"
+title = "みるログ"
 theme = "hermit"
 publishDir = "docs"
-languageCode = "ja-jp"
+languageCode = "ja"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 enableEmoji = true
