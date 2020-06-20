@@ -22,10 +22,10 @@
 </code></pre></li>
 <li>
 <p>次のコマンドで新規の静的ページを作れる</p>
-</li>
-</ul>
 <pre><code class="language-console" data-lang="console">$ hugo new page/about.md
-</code></pre>]]></content>
+</code></pre></li>
+</ul>
+]]></content>
 		</item>
 		
 		<item>
