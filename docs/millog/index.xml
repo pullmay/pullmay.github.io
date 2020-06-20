@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Millogs on みるかのブログ</title>
+    <link>https://pullmay.github.io/blog/millog/</link>
+    <description>Recent content in Millogs on みるかのブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 20 Jun 2020 15:49:17 +0900</lastBuildDate>
+    
+	<atom:link href="https://pullmay.github.io/blog/millog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2020年06月20日</title>
+      <link>https://pullmay.github.io/blog/millog/200620/</link>
+      <pubDate>Sat, 20 Jun 2020 15:49:17 +0900</pubDate>
+      
+      <guid>https://pullmay.github.io/blog/millog/200620/</guid>
+      <description>今日できたこと Hugoの設定</description>
+    </item>
+    
+  </channel>
+</rss>
