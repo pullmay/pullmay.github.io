@@ -29,9 +29,9 @@ tag = "tags"
     dateformNum     = "2006-01-02"
     dateformNumTime = "2006-01-02 15:04 -0700"
 
-    mainSections = ["posts"]
     homeSubtitle = "stay gold"
     wordCount = true
+    justifyContent = false
 
 [Permalinks]
     post = "/:filename/"
