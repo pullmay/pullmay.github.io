@@ -27,7 +27,22 @@ tags:
 
 ### code
 
-```python
+* 行番号
+
+```python　{linenos=table}
 def is_prime(p):
     return True
 ```
+
+* ハイライト
+
+```python {hl_lines=[1, 3, "5-8"]}
+import json
+
+def lambda_handler(event, context):
+    # TODO implement
+    return {
+        'statusCode': 200,
+        'body': json.dumps('Hello from Lambda!')
+    }
+```　
