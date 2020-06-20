@@ -3,7 +3,6 @@ baseURL = "https://pullmay.github.io/blog"
 title = "みるログ"
 theme = "hermit"
 publishDir = "docs"
-languageCode = "ja"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true # ワードカウント
 enableEmoji = true
@@ -14,8 +13,8 @@ paginate = 20
 hrefTargetBlank = true
 
 # シンタックスハイライト有効化とスタイル
-pygmentsCodefences = true
-pygmentsStyle = "manni"
+# pygmentsCodefences = true
+# pygmentsStyle = "manni"
 
 [taxonomies]
 tag = "tags"
