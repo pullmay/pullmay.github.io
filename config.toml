@@ -31,7 +31,7 @@ tag = "tags"
 
     mainSections = ["posts"]
     homeSubtitle = "stay gold"
-    justifyContent = false
+    wordCount = true
 
 [Permalinks]
     post = "/:filename/"
