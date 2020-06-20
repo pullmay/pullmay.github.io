@@ -17,6 +17,9 @@ hrefTargetBlank = true
 pygmentsCodefences = true
 pygmentsStyle = "manni"
 
+[taxonomies]
+tag = "tags"
+
 [author]
 	name = "pullmay"
 
