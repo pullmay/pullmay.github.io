@@ -34,3 +34,9 @@ hasCJKLanguage = true
         url = "/about/"
         weight = 10
         pre = "<i class='fa fa-info-circle'></i>"
+        
+    [[menu.main]]
+        name = "Pages"
+        url = "/pages/"
+        weight = 10
+        pre = "<i class='fa fa-info-circle'></i>"
