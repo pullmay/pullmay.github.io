@@ -26,11 +26,7 @@ pygmentsStyle = "manni"
     dateformNumTime = "2006-01-02 15:04 -0700"
 
     homeSubtitle = "stay gold"
-
     justifyContent = false
-
-    Twitter  = "mirucaaura"
-    footline = "Copyright&copy; <a href='/about/about/'>pullmay</a>"
 
 [menu]
     [[menu.main]]
@@ -50,3 +46,8 @@ pygmentsStyle = "manni"
         url = "/millog/"
         weight = 3
         pre = "<i class='fa fa-archive'></i>"
+    
+    [[menu.main]]
+        name = "Note"
+        url = "/notes/"
+        weight = 4
