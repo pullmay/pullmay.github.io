@@ -9,7 +9,7 @@
 		<atom:link href="https://pullmay.github.io/blog/millog/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>2020年06月20日</title>
+			<title></title>
 			<link>https://pullmay.github.io/blog/millog/200620/</link>
 			<pubDate>Sat, 20 Jun 2020 15:49:17 +0900</pubDate>
 			
@@ -17,10 +17,12 @@
 			<description>今日できたこと Hugoの設定を行った．手順が煩雑なので，念のためGitHubにhugoというリポジトリを作成し，簡単な手順を買いておいた．ち</description>
 			<content type="html"><![CDATA[<h2 id="今日できたこと">今日できたこと</h2>
 <ul>
-<li><code>Hugo</code>の設定を行った．手順が煩雑なので，念のため<code>GitHub</code>に<code>hugo</code>というリポジトリを作成し，簡単な手順を買いておいた．ちょっと分かっていないのが以下の部分なんだけど，そもそも<code>git</code>の仕組みというか仕様が理解できていないんだと思う．今回は<code>hugo new site</code>コマンドでローカルにフォルダを作って，その中で作業を行ったんだけど，その辺りでコンフリクト的なことが起こったんじゃないかな，と思っている．</li>
-</ul>
+<li>
+<p><code>Hugo</code>の設定を行った．手順が煩雑なので，念のため<code>GitHub</code>に<code>hugo</code>というリポジトリを作成し，簡単な手順を買いておいた．ちょっと分かっていないのが以下の部分なんだけど，そもそも<code>git</code>の仕組みというか仕様が理解できていないんだと思う．今回は<code>hugo new site</code>コマンドでローカルにフォルダを作って，その中で作業を行ったんだけど，その辺りでコンフリクト的なことが起こったんじゃないかな，と思っている．</p>
 <pre><code>$ git merge --allow-unrelated-histories origin/master
-</code></pre>]]></content>
+</code></pre></li>
+</ul>
+]]></content>
 		</item>
 		
 		<item>
