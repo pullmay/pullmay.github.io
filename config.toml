@@ -7,6 +7,7 @@ languageCode = "ja"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 enableEmoji = true
+paginate = 20
 
 # 外部リンクを新規タブで開く
 [blackfriday]
