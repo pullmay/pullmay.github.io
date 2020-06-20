@@ -5,7 +5,7 @@ theme = "hermit"
 publishDir = "docs"
 languageCode = "ja"
 defaultContentLanguage = "ja"
-hasCJKLanguage = true
+hasCJKLanguage = true # ワードカウント
 enableEmoji = true
 paginate = 20
 
