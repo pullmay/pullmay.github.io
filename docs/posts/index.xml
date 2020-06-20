@@ -5,8 +5,28 @@
 		<description>Recent content in Posts on みるかのブログ</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>ja-jp</language>
-		<lastBuildDate>Fri, 19 Jun 2020 21:39:50 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jun 2020 14:45:32 +0900</lastBuildDate>
 		<atom:link href="https://pullmay.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Third</title>
+			<link>https://pullmay.github.io/blog/posts/third/</link>
+			<pubDate>Sat, 20 Jun 2020 14:45:32 +0900</pubDate>
+			
+			<guid>https://pullmay.github.io/blog/posts/third/</guid>
+			<description>新しい記事を書くときにターミナルで次のように書くと速くて便利： $ hugo new posts/third.md --editor=&amp;quot;code&amp;quot; 次のコマンドで新規の静的ページを作れる $ hugo new page/about.md</description>
+			<content type="html"><![CDATA[<ul>
+<li>
+<p>新しい記事を書くときにターミナルで次のように書くと速くて便利：</p>
+<pre><code class="language-console" data-lang="console">$ hugo new posts/third.md --editor=&quot;code&quot;
+</code></pre></li>
+<li>
+<p>次のコマンドで新規の静的ページを作れる</p>
+</li>
+</ul>
+<pre><code class="language-console" data-lang="console">$ hugo new page/about.md
+</code></pre>]]></content>
+		</item>
 		
 		<item>
 			<title>Second</title>
