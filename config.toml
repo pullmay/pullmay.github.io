@@ -36,17 +36,17 @@ pygmentsStyle = "manni"
     [[menu.main]]
         name = "Posts"
         url = "/posts/"
-        weight = 10
+        weight = 1
         pre = "<i class='fa fa-archive'></i>"
 
     [[menu.main]]
         name = "About"
         url = "/about/about/"
-        weight = 10
+        weight = 2
         pre = "<i class='fa fa-info-circle'></i>"
 
     [[menu.main]]
         name = "みるログ"
         url = "/millog/"
-        weight = 10
+        weight = 3
         pre = "<i class='fa fa-archive'></i>"
