@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>2020年06月19日</title>
-      <link>https://pullmay.github.io/blog/millog/200619/</link>
-      <pubDate>Sat, 20 Jun 2020 15:49:17 +0900</pubDate>
-      
-      <guid>https://pullmay.github.io/blog/millog/200619/</guid>
-      <description>午前中に頑張り過ぎて午後から集中が全然なかった．一日に使える集中力には限度があることを実感した． Udemyを意識的に始めた．あとLinux A</description>
-    </item>
-    
-    <item>
       <title>2020年06月20日</title>
       <link>https://pullmay.github.io/blog/millog/200620/</link>
       <pubDate>Sat, 20 Jun 2020 15:49:17 +0900</pubDate>
       
       <guid>https://pullmay.github.io/blog/millog/200620/</guid>
-      <description>今日できたこと Hugoの設定</description>
+      <description>今日できたこと Hugoの設定を行った．手順が煩雑なので，念のためGitHubにhugoというリポジトリを作成し，簡単な手順を買いておいた．ち</description>
+    </item>
+    
+    <item>
+      <title>2020年06月19日</title>
+      <link>https://pullmay.github.io/blog/millog/200619/</link>
+      <pubDate>Fri, 19 Jun 2020 20:49:17 +0900</pubDate>
+      
+      <guid>https://pullmay.github.io/blog/millog/200619/</guid>
+      <description>午前中に頑張り過ぎて午後から集中が全然なかった．一日に使える集中力には限度があることを実感した． Udemyを意識的に始めた．あとLinux A</description>
     </item>
     
   </channel>
