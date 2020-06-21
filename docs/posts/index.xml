@@ -52,7 +52,7 @@
 			<pubDate>Fri, 19 Jun 2020 18:49:46 +0900</pubDate>
 			
 			<guid>https://pullmay.github.io/blog/posts/init/</guid>
-			<description>Install brew install hugo meta https://github.com/Track3/hermit code 行番号（反映されない） def is_prime(p): return True ハイライト import json def lambda_handler(event, context): # TODO implement return { &amp;#39;statusCode&amp;#39;: 200, &amp;#39;body&amp;#39;: json.dumps(&amp;#39;Hello from Lambda!&amp;#39;) } Twitter埋め込み 動かしてみたよ〜〜〜💛 https://t.co/EO45F72nEE pic.twitter.com/VA6E0cU2mY &amp;mdash; み</description>
+			<description>Install brew install hugo meta https://github.com/Track3/hermit code 行番号（反映されない） def is_prime(p): return True ハイライト import json def lambda_handler(event, context): # TODO implement return { &amp;#39;statusCode&amp;#39;: 200, &amp;#39;body&amp;#39;: json.dumps(&amp;#39;Hello from Lambda!&amp;#39;) } Twitter埋め込み {{(&amp;lt;) tweet 1271709146694344710 (&amp;gt;)}} ※()は不要 動かしてみ</description>
 			<content type="html"><![CDATA[<h2 id="install">Install</h2>
 <ul>
 <li><code>brew install hugo</code></li>
@@ -79,10 +79,9 @@
 </span><span style="display:block;width:100%;background-color:#3c3d38">        <span style="color:#e6db74">&#39;body&#39;</span>: json<span style="color:#f92672">.</span>dumps(<span style="color:#e6db74">&#39;Hello from Lambda!&#39;</span>)
 </span><span style="display:block;width:100%;background-color:#3c3d38">    }
 </span></code></pre></div><h2 id="twitter埋め込み">Twitter埋め込み</h2>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown"><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">動かしてみたよ〜〜〜💛 <a href="https://t.co/EO45F72nEE">https://t.co/EO45F72nEE</a> <a href="https://t.co/VA6E0cU2mY">pic.twitter.com/VA6E0cU2mY</a></p>&mdash; みるか🌸 (@mirucaaura) <a href="https://twitter.com/mirucaaura/status/1271709146694344710?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</code></pre></div><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">動かしてみたよ〜〜〜💛 <a href="https://t.co/EO45F72nEE">https://t.co/EO45F72nEE</a> <a href="https://t.co/VA6E0cU2mY">pic.twitter.com/VA6E0cU2mY</a></p>&mdash; みるか🌸 (@mirucaaura) <a href="https://twitter.com/mirucaaura/status/1271709146694344710?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown">{{(<span style="color:#960050;background-color:#1e0010">&lt;</span>) tweet 1271709146694344710 (&gt;)}}
+</code></pre></div><p>※<code>()</code>は不要</p>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">動かしてみたよ〜〜〜💛 <a href="https://t.co/EO45F72nEE">https://t.co/EO45F72nEE</a> <a href="https://t.co/VA6E0cU2mY">pic.twitter.com/VA6E0cU2mY</a></p>&mdash; みるか🌸 (@mirucaaura) <a href="https://twitter.com/mirucaaura/status/1271709146694344710?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ]]></content>
