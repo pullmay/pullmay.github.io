@@ -55,3 +55,9 @@ tag = "tags"
         url = "/millog/"
         weight = 3
         pre = "<i class='fa fa-archive'></i>"
+    
+    [[menu.main]]
+        name = "tweets"
+        url = "/tweets/"
+        weight = 4
+        pre = "<i class='fa fa-archive'></i>"
