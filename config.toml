@@ -34,6 +34,9 @@ tag = "tags"
     wordCount = true
     justifyContent = false
 
+    GitHubUser = "pullmay"
+    Twitter = "mirucaaura"
+
 [Permalinks]
     post = "/:filename/"
 
