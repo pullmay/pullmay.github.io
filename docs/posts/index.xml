@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on みるログ</title>
+		<title>Posts on みるログ！</title>
 		<link>https://pullmay.github.io/blog/posts/</link>
-		<description>Recent content in Posts on みるログ</description>
+		<description>Recent content in Posts on みるログ！</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<lastBuildDate>Sat, 20 Jun 2020 14:45:32 +0900</lastBuildDate>
 		<atom:link href="https://pullmay.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />

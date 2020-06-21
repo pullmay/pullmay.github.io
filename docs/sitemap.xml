@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pullmay.github.io/blog/about/</loc>
+    <lastmod>2020-06-21T10:16:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pullmay.github.io/blog/</loc>
+    <lastmod>2020-06-21T10:16:46+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pullmay.github.io/blog/tags/hoge/</loc>
     <lastmod>2020-06-20T18:27:02+09:00</lastmod>
   </url>
@@ -19,11 +29,6 @@
   
   <url>
     <loc>https://pullmay.github.io/blog/tags/</loc>
-    <lastmod>2020-06-20T22:49:17+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pullmay.github.io/blog/</loc>
     <lastmod>2020-06-20T22:49:17+09:00</lastmod>
   </url>
   
