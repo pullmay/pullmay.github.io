@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Millogs on みるログ！</title>
+		<title>Millogs on Flavor of Life</title>
 		<link>https://pullmay.github.io/blog/millog/</link>
-		<description>Recent content in Millogs on みるログ！</description>
+		<description>Recent content in Millogs on Flavor of Life</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<lastBuildDate>Sat, 20 Jun 2020 15:49:17 +0900</lastBuildDate>
 		<atom:link href="https://pullmay.github.io/blog/millog/index.xml" rel="self" type="application/rss+xml" />
