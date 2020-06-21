@@ -2,7 +2,7 @@
 baseURL = "https://pullmay.github.io/blog"
 langageCode = "ja-jP"
 defaultContentLanguage = "ja"
-title = "みるログ！"
+title = "Flavor of Life"
 theme = "hermit"
 publishDir = "docs"
 
@@ -30,12 +30,9 @@ tag = "tags"
     dateformNum     = "2006-01-02"
     dateformNumTime = "2006-01-02 15:04 -0700"
 
-    homeSubtitle = "stay gold"
+    homeSubtitle = ""
     wordCount = true
     justifyContent = false
-
-    GitHubUser = "pullmay"
-    Twitter = "mirucaaura"
 
 [Permalinks]
     post = "/:filename/"
