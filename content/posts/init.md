@@ -40,8 +40,8 @@ def lambda_handler(event, context):
 
 ## Twitter埋め込み
 
-```
-{{&lt; twitter 1271709146694344710&gt;}}
+```markdown
+{{< twitter 1271709146694344710 >}}
 ```
 
 {{< twitter 1271709146694344710>}}
