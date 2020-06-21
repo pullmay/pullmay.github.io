@@ -2,7 +2,7 @@
 baseURL = "https://pullmay.github.io/blog"
 langageCode = "ja-jP"
 defaultContentLanguage = "ja"
-title = "みるログ"
+title = "みるログ！"
 theme = "hermit"
 publishDir = "docs"
 
@@ -46,7 +46,7 @@ tag = "tags"
 
     [[menu.main]]
         name = "About"
-        url = "/about/about/"
+        url = "/about/"
         weight = 2
         pre = "<i class='fa fa-info-circle'></i>"
 
