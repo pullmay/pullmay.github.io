@@ -91,9 +91,9 @@
 <p>{: .box-error}
 <strong>Error:</strong> This is an error box.</p>
 <h2 id="twitter埋め込み">Twitter埋め込み</h2>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown">{{(<span style="color:#960050;background-color:#1e0010">&lt;</span>) tweet 1271709146694344710 (&gt;)}}
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown">{{(<span style="color:#960050;background-color:#1e0010">&lt;</span>) tweet 1275030562730737665 (&gt;)}}
 </code></pre></div><p>※<code>()</code>は不要</p>
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">動かしてみたよ〜〜〜💛 <a href="https://t.co/EO45F72nEE">https://t.co/EO45F72nEE</a> <a href="https://t.co/VA6E0cU2mY">pic.twitter.com/VA6E0cU2mY</a></p>&mdash; みるか🌸 (@mirucaaura) <a href="https://twitter.com/mirucaaura/status/1271709146694344710?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日は入社して以来、最も良い話を聴くことができたので、そのうちまとめておきたいな、と思いました。</p>&mdash; みるか🌷 (@mirucaaura) <a href="https://twitter.com/mirucaaura/status/1275030562730737665?ref_src=twsrc%5Etfw">June 22, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ]]></content>
