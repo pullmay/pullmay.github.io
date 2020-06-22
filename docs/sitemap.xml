@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pullmay.github.io/blog/tweets/2020february/</loc>
-    <lastmod>2020-06-22T20:02:07+09:00</lastmod>
+    <loc>https://pullmay.github.io/blog/tweets/2020june/</loc>
+    <lastmod>2020-06-22T20:01:55+09:00</lastmod>
   </url>
   
   <url>
@@ -25,26 +25,6 @@
   <url>
     <loc>https://pullmay.github.io/blog/tweets/</loc>
     <lastmod>2020-06-22T20:02:07+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pullmay.github.io/blog/tweets/2020march/</loc>
-    <lastmod>2020-06-22T20:01:55+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pullmay.github.io/blog/tweets/2020may/</loc>
-    <lastmod>2020-06-22T20:01:55+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pullmay.github.io/blog/tweets/2020june/</loc>
-    <lastmod>2020-06-22T20:01:55+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pullmay.github.io/blog/tweets/2020april/</loc>
-    <lastmod>2020-06-21T14:07:13+09:00</lastmod>
   </url>
   
   <url>
@@ -95,6 +75,26 @@
   <url>
     <loc>https://pullmay.github.io/blog/posts/init/</loc>
     <lastmod>2020-06-21T10:51:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pullmay.github.io/blog/tweets/2020may/</loc>
+    <lastmod>2020-06-22T20:01:55+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pullmay.github.io/blog/tweets/2020april/</loc>
+    <lastmod>2020-06-21T14:07:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pullmay.github.io/blog/tweets/2020march/</loc>
+    <lastmod>2020-06-22T20:01:55+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pullmay.github.io/blog/tweets/2020february/</loc>
+    <lastmod>2020-06-22T20:02:07+09:00</lastmod>
   </url>
   
 </urlset>

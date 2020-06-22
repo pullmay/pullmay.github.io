@@ -5,37 +5,10 @@
     <link>https://pullmay.github.io/blog/</link>
     <description>Recent content on Flavor of Life</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Jun 2020 20:02:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 20:01:55 +0900</lastBuildDate>
     
 	<atom:link href="https://pullmay.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>2020年2月</title>
-      <link>https://pullmay.github.io/blog/tweets/2020february/</link>
-      <pubDate>Mon, 22 Jun 2020 20:02:07 +0900</pubDate>
-      
-      <guid>https://pullmay.github.io/blog/tweets/2020february/</guid>
-      <description>凸最適化に限っては，Stephan Boyd 先生の &amp;quot;Convex Optimization&amp;quot; が氏の HP からダウンロードできるので適宜参照されるとよいと思います．スライドもあります．http</description>
-    </item>
-    
-    <item>
-      <title>2020年3月</title>
-      <link>https://pullmay.github.io/blog/tweets/2020march/</link>
-      <pubDate>Mon, 22 Jun 2020 20:01:55 +0900</pubDate>
-      
-      <guid>https://pullmay.github.io/blog/tweets/2020march/</guid>
-      <description>Lillian さんのツイートで強く思ったことは、変なプライドや見栄なんか捨てて、最初は分かりやすく読みやすい本で勉強をした方がいいということです。 &amp;mdash; みる</description>
-    </item>
-    
-    <item>
-      <title>2020年5月</title>
-      <link>https://pullmay.github.io/blog/tweets/2020may/</link>
-      <pubDate>Mon, 22 Jun 2020 20:01:55 +0900</pubDate>
-      
-      <guid>https://pullmay.github.io/blog/tweets/2020may/</guid>
-      <description>千葉先生の『工学部で学ぶ数学』のまえがき https://t.co/l0TFOrmCkV pic.twitter.com/5uvOkiEjq9 &amp;mdash; みるか🌷 (@mirucaaura) May 28, 2020 「○○学科なんだから△△得意でしょ？」大喜利 &amp;mdash; みるか🌷 (@mirucaaura) May 27, 2020 実数全体の集合が</description>
-    </item>
     
     <item>
       <title>2020年6月</title>
@@ -44,15 +17,6 @@
       
       <guid>https://pullmay.github.io/blog/tweets/2020june/</guid>
       <description>工学の講義における数学の説明に納得ができず数学科の講義を聴講していました &amp;mdash; みるか🌷 (@mirucaaura) June 19, 2020 人間、余裕がなくなると、部屋は散らかるし、食事は疎</description>
-    </item>
-    
-    <item>
-      <title>2020年4月</title>
-      <link>https://pullmay.github.io/blog/tweets/2020april/</link>
-      <pubDate>Sun, 21 Jun 2020 14:07:13 +0900</pubDate>
-      
-      <guid>https://pullmay.github.io/blog/tweets/2020april/</guid>
-      <description>夫婦で線型代数をやり直せる家庭を築きたい...。 &amp;mdash; みるか🌸 (@mirucaaura) April 13, 2020 西岡先生の「測度論は 25 歳くらいにならないと理解できない」というコトバ、パワ</description>
     </item>
     
     <item>
@@ -98,6 +62,42 @@
       
       <guid>https://pullmay.github.io/blog/posts/init/</guid>
       <description>Install brew install hugo meta https://github.com/Track3/hermit code 行番号（反映されない） def is_prime(p): return True ハイライト import json def lambda_handler(event, context): # TODO implement return { &amp;#39;statusCode&amp;#39;: 200, &amp;#39;body&amp;#39;: json.dumps(&amp;#39;Hello from Lambda!&amp;#39;) } Twitter埋め込み {{(&amp;lt;) tweet 1271709146694344710 (&amp;gt;)}} ※()は不要 動かしてみ</description>
+    </item>
+    
+    <item>
+      <title>2020年5月</title>
+      <link>https://pullmay.github.io/blog/tweets/2020may/</link>
+      <pubDate>Sun, 31 May 2020 20:01:55 +0900</pubDate>
+      
+      <guid>https://pullmay.github.io/blog/tweets/2020may/</guid>
+      <description>千葉先生の『工学部で学ぶ数学』のまえがき https://t.co/l0TFOrmCkV pic.twitter.com/5uvOkiEjq9 &amp;mdash; みるか🌷 (@mirucaaura) May 28, 2020 「○○学科なんだから△△得意でしょ？」大喜利 &amp;mdash; みるか🌷 (@mirucaaura) May 27, 2020 実数全体の集合が</description>
+    </item>
+    
+    <item>
+      <title>2020年4月</title>
+      <link>https://pullmay.github.io/blog/tweets/2020april/</link>
+      <pubDate>Thu, 30 Apr 2020 14:07:13 +0900</pubDate>
+      
+      <guid>https://pullmay.github.io/blog/tweets/2020april/</guid>
+      <description>夫婦で線型代数をやり直せる家庭を築きたい...。 &amp;mdash; みるか🌸 (@mirucaaura) April 13, 2020 西岡先生の「測度論は 25 歳くらいにならないと理解できない」というコトバ、パワ</description>
+    </item>
+    
+    <item>
+      <title>2020年3月</title>
+      <link>https://pullmay.github.io/blog/tweets/2020march/</link>
+      <pubDate>Tue, 31 Mar 2020 20:01:55 +0900</pubDate>
+      
+      <guid>https://pullmay.github.io/blog/tweets/2020march/</guid>
+      <description>Lillian さんのツイートで強く思ったことは、変なプライドや見栄なんか捨てて、最初は分かりやすく読みやすい本で勉強をした方がいいということです。 &amp;mdash; みる</description>
+    </item>
+    
+    <item>
+      <title>2020年2月</title>
+      <link>https://pullmay.github.io/blog/tweets/2020february/</link>
+      <pubDate>Sat, 29 Feb 2020 20:02:07 +0900</pubDate>
+      
+      <guid>https://pullmay.github.io/blog/tweets/2020february/</guid>
+      <description>凸最適化に限っては，Stephan Boyd 先生の &amp;quot;Convex Optimization&amp;quot; が氏の HP からダウンロードできるので適宜参照されるとよいと思います．スライドもあります．http</description>
     </item>
     
   </channel>
